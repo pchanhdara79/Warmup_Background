@@ -9,9 +9,12 @@ html {
 
 header {
     background-color: rgb(99, 59, 67);
-    opacity: 0.7;
 }
 
 body {
     background-color: rgb(129, 101, 107);
+}
+
+.opacity{
+    opacity: 0.7;
 }
