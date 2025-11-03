@@ -8,5 +8,9 @@ html {
 }
 
 header {
-    background-color: #e47177;
+    background-color: rgb(133, 59, 74);
+}
+
+body {
+    background-color: rgb(119, 65, 76);
 }
