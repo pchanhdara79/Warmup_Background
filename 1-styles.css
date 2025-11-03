@@ -6,3 +6,12 @@
     max-width: 1200px;
     margin: 0 auto;
 }
+
+html {
+    background-color: #e3ebff;
+    background-image: url(images/1-big-viburnum.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
