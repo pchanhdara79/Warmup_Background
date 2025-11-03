@@ -1,0 +1,16 @@
+.header {
+    background-color: rgb(99, 59, 67);
+    background-image: url(images/4-uwm-hero.jpg);
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+main {
+    background-color: rgb(129, 101, 107);
+}
+
+h1 {
+    
+}
