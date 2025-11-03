@@ -12,5 +12,6 @@ main {
 }
 
 h1 {
-    
+    background-color: rgb(226, 218, 220, 0.7);
+    text-align: center;
 }
