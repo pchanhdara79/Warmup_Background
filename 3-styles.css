@@ -1,10 +1,10 @@
 .header {
     background-color: #e0e9ff;
     background-image: url(images/3-fruit.jpg);
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center;
 }
 
 .h1 {
