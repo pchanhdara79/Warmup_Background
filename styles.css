@@ -1,17 +1,8 @@
-html {
-    background-color: #e3ebff;
-    background-image: url(images/1-big-viburnum.jpg);
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-header {
+.header {
     background-color: rgb(99, 59, 67);
 }
 
-body {
+.body {
     background-color: rgb(129, 101, 107);
 }
 
