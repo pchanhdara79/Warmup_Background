@@ -1,0 +1,18 @@
+.header {
+    background-color: #e0e9ff;
+    background-image: url(images/3-fruit.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.h1 {
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.body {
+    background-color: rgb(245, 229, 186);
+}
