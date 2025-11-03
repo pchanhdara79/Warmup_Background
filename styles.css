@@ -3,4 +3,10 @@ html {
     background-image: url(images/1-big-viburnum.jpg);
     background-attachment: fixed;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+header {
+    background-color: #e47177;
 }
