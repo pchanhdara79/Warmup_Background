@@ -2,5 +2,5 @@ html {
     background-color: #e3ebff;
     background-image: url(images/1-big-viburnum.jpg);
     background-attachment: fixed;
-    background-size: contain;
+    background-size: cover;
 }
